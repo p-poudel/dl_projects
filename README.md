@@ -5,3 +5,4 @@
 1. [Breast Cancer Classification](https://www.youtube.com/watch?v=WGNI-k20GNo&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=21&pp=iAQB)
 2. [MNIST Digit Classification](https://www.youtube.com/watch?v=Vlc-iBQoNMw&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=23&pp=iAQB)
 3. [Dog VS Cat Classification using Transfer learning on MobileNetV2](https://www.youtube.com/watch?v=pHq29zi4Gr0&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=29&pp=iAQB)
+4. [CIFAR10 Object Recognition using Transfer learning on ResNet50V2](https://www.youtube.com/watch?v=B-1qwKvJI64&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&index=30&pp=iAQB0gcJCesJAYcqIYzv)
